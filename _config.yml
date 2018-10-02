@@ -25,6 +25,7 @@ twitter_username:
 github_username:
 facebook_username: kddanceschool
 logo: # path of site logo, e.g. "/assets/images/logo.png"
+image: "/assets/images/hero.jpg"
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
