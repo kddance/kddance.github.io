@@ -1,4 +1,4 @@
 ---
-layout: posts
+layout: news
 title: News
 ---
