@@ -20,9 +20,7 @@ description: Dance School for ages 3+ in Stannington, Sheffield
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
-  twitter:
-  picture:
+  name: K D Dance
 twitter_username:
 github_username:
 logo: # path of site logo, e.g. "/assets/images/logo.png"
